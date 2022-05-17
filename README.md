@@ -1,3 +1,8 @@
+# Note:
+This project is not completed yet.
+# How Does it work?
+It's simple app that will use [backtracking](https://en.wikipedia.org/wiki/Backtracking) algorithm to find answer of sudoku.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
